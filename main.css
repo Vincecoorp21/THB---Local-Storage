@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightgray;
+}
+input {
+  border-radius: 15px;
+  padding: 5px;
+}
+
+h1 {
+  margin: 10px 15px;
+}
+label {
+  font-weight: bold;
+}
+form {
+  margin-left: 15px;
+}
+#enviar {
+  cursor: pointer;
+}
+#borrar {
+  margin-left: 15px;
+  padding: 5px;
+}
+.mostrar {
+  margin: 5px 15px;
+}
